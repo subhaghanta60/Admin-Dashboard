@@ -17,7 +17,7 @@
 }
 
 .rbc-btn-group:first-child {
-    display:none !important
+    display:none !important;
 }
 .rbc-toolbar-label {
     text-align:right !important;
@@ -113,5 +113,5 @@
 
 .rbc-event-label {
     color:gray !important;
-    margin-buttom: 5px !important
+    margin-bottom: 5px !important
 }
