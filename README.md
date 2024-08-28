@@ -7,6 +7,9 @@
 - npm i moment
 - npm install --save @types/react-big-calendar
 - npm install tailwindcss postcss autoprefixer
+- npm install react-hook-form
+- npm i @hookform/resolvers
+- npm i zod
 
 
 ```
