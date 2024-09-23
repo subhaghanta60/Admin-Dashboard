@@ -10,6 +10,7 @@
 - npm install react-hook-form
 - npm i @hookform/resolvers
 - npm i zod
-
+- npx prisma
+- npx prisma init
 
 ```
